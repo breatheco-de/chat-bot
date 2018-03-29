@@ -22,3 +22,7 @@ The chat must receive at least the following configs:
 | Property      | Description   | Example       |
 |---------------|---------------|---------------|
 | name          | The bot name  | Rigoberto     |
+
+### Technoloy
+
+Use of Dialogflow?
